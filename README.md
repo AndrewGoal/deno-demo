@@ -14,3 +14,6 @@ deno run --allow-net --allow-read index.ts
 deno run --allow-net --allow-read --allow-run launch.ts
 ```
 只需将你需要被访问的所有静态资源放置在 /static/ 目录下即可通过 ```HOST/{filepath}的方式去访问即可```
+
+
+https://zhuanlan.zhihu.com/p/143947500
